@@ -1,10 +1,7 @@
-<p align="center">
-    <img src="https://avairebot.com/assets/img/banner-simple.png">
-</p>
 
-## About AvaIre
+## About BasikBot
 
-AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
+BasikBot is a multipurpose Discord bot made for fun, written in Java 8, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
 
 ## Main features
 
@@ -20,9 +17,9 @@ AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the 
     - Change the prefix ava uses on a per-module basis
 - And more, check the [full command reference](https://avairebot.com/docs/master/commands) for all the commands!
 
-Visit our [website](https://avairebot.com/) for more information.
 
-## Deploy AvaIre on Heroku
+
+## Deploy BasikBot on Heroku
 You can deploy in a simple way to Heroku using the button below.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
@@ -31,11 +28,11 @@ Before deploying, read [the configuration guide](https://avairebot.com/docs/mast
 
 ## Contributing
 
-Thank you for considering contributing to AvaIre! The contribution guide can be found in the [AvaIre documentation](https://avairebot.com/docs/contributions).
+Thank you for considering contributing to BasikBot! The contribution guide can be found in the [BasikBot documentation](
 
 ## License
 
-AvaIre is open-sourced software licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html).
+BasikBot is open-sourced software licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html).
 
 ## Third Party Licenses
 AvaIre relies on the following projects:
