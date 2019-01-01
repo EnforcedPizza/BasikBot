@@ -1,10 +1,10 @@
 {
-  "name": "AvaIre",
-  "description": "AvaIre is a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
+  "name": "BasikBot",
+  "description": "BasikBot is a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
   "keywords": [
     "Heroku",
-    "AvaIre",
-    "AvaIreBot",
+    "BasikBot",
+    "BasikBotBot",
     "Discord Bot",
     "Entertainment",
     "Music",
@@ -15,8 +15,7 @@
     "Music Bot",
     "Discord Music Bot"
   ],
-  "website": "https://avairebot.com/",
-  "repository": "https://github.com/avaire/avaire",
+  "repository": "https://github.com/EnforcedPizza/BasikBot",
   "logo": "https://imgur.com/H8RCD5F.png",
   "success_url": "/stats",
   "addons": [
@@ -29,7 +28,7 @@
   ],
  "env": {
     "GRADLE_TASK": {
-      "description": "Tells Heroku how to compile AvaIre. Leave it as it, unless you know what your doing.",
+      "description": "Tells Heroku how to compile BasikBot. Leave it as it, unless you know what your doing.",
       "required": true,
       "value": "build"
     },
@@ -52,7 +51,7 @@
 	  "value": "https://discordapp.com/oauth2/authorize?&client_id=<client_id>&scope=bot&permissions=66186303"
     },
     "AVA_DATABASE_TYPE": {
-      "description": "AvaIre normally uses MySQL with JawsDB MySQL on Heroku. If you want to use your own MySQL server with heroku, add your own variables for it. You can find them here: https://bit.ly/2R3r40E.",
+      "description": "BasikBot normally uses MySQL with JawsDB MySQL on Heroku. If you want to use your own MySQL server with heroku, add your own variables for it. You can find them here: https://bit.ly/2R3r40E.",
 	  "required": true,
 	  "value": "mysql"
     },
