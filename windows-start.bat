@@ -1,5 +1,5 @@
 @echo off
-@title AvaIre Windows Launcher
+@title BasikBot Windows Launcher
 
 setlocal enabledelayedexpansion
 set Looping=False
@@ -8,7 +8,7 @@ cls
 
 :START
 echo.
-echo Welcome to AvaIre's window launcher
+echo Welcome to BasikBot's window launcher
 echo Please select an option to begin:
 echo.
 echo    1. Start the bot normally
